@@ -1,7 +1,6 @@
-# nextjs-tailwind-boilerplate
+# react-query-currency-converter
 
-This repo is a boilerplate for Next.js 14 with Tailwind v3, pre-configured Prettier, Stylelint, and ESLint. Built with
-Bun and Turbopack for fast development and optimized builds.
+There would be information about this project.
 
 To run the development server:
 
